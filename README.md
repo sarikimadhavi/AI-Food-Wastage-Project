@@ -1,25 +1,22 @@
-📘 FreshKeeper (AI)
+🌿 FreshKeeper (AI)
 
-An AI-powered study management platform that helps students organise their academic schedule through intelligent planning, deadline tracking, smart reminders, and personalised timetables.
+An AI-powered kitchen assistant that helps households reduce food wastage through intelligent tracking, expiry reminders, and recipe suggestions.
 
 👨‍🎓 Student Information
 
 Name: Sariki Madhavi
-
 Branch: CSE
-
 Batch Duration: 24-11-2025 to 28-11-2025
 
 🚀 Project Overview
 
-Smart Study Planner (AI) is a no-code web application designed using Wix. It simplifies academic planning by automatically adjusting study intensity, generating organised timetables, and tracking deadlines. The system ensures students stay consistent, productive, and stress-free.
+FreshKeeper is an AI-based system designed to help families manage groceries efficiently and reduce daily food waste. It tracks stored items, monitors expiry dates, sends timely alerts, and provides smart recipe suggestions based on ingredients nearing expiry.
+The system promotes sustainable habits and helps households save money while reducing waste.
 
-🌐 Live Demo
+🌐 Live Website
 
-🔗 Website:[ [https://my-site-z1x5rz6i-yeligintimahendras.wix-vibe.com/](https://my-site-2wch5vkt-yeligintimahendras.wix-vibe.com/)
-]
+🔗 https://my-site-itrpkrv8-madhavimadhu00000.wix-vibe.com
+
 📄 Project Report
 
-Download: [Madhavi.pdf](Madhavi.pdf)
-
-
+📥 Download: Madhavi.pdf
