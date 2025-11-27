@@ -19,4 +19,4 @@ The system promotes sustainable habits and helps households save money while red
 
 📄 Project Report
 
-📥 Download: Madhavi.pdf
+📥 Download: [Madhavi.pdf](Madhavi.pdf)
