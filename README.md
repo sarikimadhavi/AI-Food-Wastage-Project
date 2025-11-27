@@ -27,10 +27,10 @@ The system promotes sustainable habits and helps households save money while red
 ![Homepage](homepage_.png)
 
 ### ⚠️ Challenge Section
-![Challenge](features_.png)
+![Features](features_.png)
 
 ### 🧠 Features Section
-![Features](recepies.png)
+![Recipes](recepies.png)
 
 ### 🚀 Benefits Section
-![Benefits](dashboard.png)
+![Dashboard](dasboard.png)
